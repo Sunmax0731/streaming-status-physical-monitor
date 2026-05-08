@@ -1,0 +1,11 @@
+{
+  "product": "streaming-status-physical-monitor",
+  "title": "配信状態物理モニター",
+  "domain": "IoT",
+  "ideaNo": 14,
+  "platformType": "iot-simulator-mock",
+  "expectedPublicTarget": "GitHub Release / 自宅LAN",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
