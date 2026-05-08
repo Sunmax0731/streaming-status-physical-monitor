@@ -1,0 +1,38 @@
+{
+  "product": "streaming-status-physical-monitor",
+  "sourceRank": {
+    "rank": 52,
+    "tier": "P2",
+    "score": 55,
+    "domain": "IoT",
+    "ideaNo": 14,
+    "ideaName": "配信状態物理モニター",
+    "repositoryName": "streaming-status-physical-monitor",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "OBS連携と物理表示の相性はよいが、M5Stack等の実機前提になる。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_014_streaming-status-physical-monitor",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_014_streaming-status-physical-monitor\\idea_014_streaming-status-physical-monitor.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "streaming-status-physical-monitor",
+  "metadataIdea": "配信状態物理モニター",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
